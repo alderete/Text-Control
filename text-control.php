@@ -188,7 +188,7 @@ function tc_post_process($text, $do_text='', $do_char='') {
 	if($do_text == 'textile2') {
 		require_once('text-control/textile2.php');
 		$t = new Textile();
-		$text = $t->process($text);
+		$text = $t->TextileThis($text);
 		
 	} else if($do_text == 'textile1') {
 		require_once('text-control/textile1.php');
