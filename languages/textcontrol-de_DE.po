@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Text Control\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-11-03 14:01+0100\n"
+"PO-Revision-Date: 2008-11-03 14:01+0100\n"
+"Last-Translator: Frank Bueltge <frank@bueltge.de>\n"
+"Language-Team: Frank Bueltge <frank@bueltge.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: D:\\Eigene\\WP-Plugins\\text-control\\trunk\\\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: text-control.php:49
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: text-control.php:134
+#: text-control.php:237
+#: text-control.php:362
+#: text-control.php:491
+msgid "Text Control"
+msgstr "Text Control"
+
+#: text-control.php:136
+msgid "Text Control Formatting Options"
+msgstr "Text Control Formatierungseinstellungen"
+
+#: text-control.php:148
+msgid "plugin"
+msgstr "plugin"
+
+#: text-control.php:148
+msgid "Version"
+msgstr "Version"
+
+#: text-control.php:148
+msgid "Author"
+msgstr "Autor"
+
+#: text-control.php:245
+msgid "Post/Excerpt formatting updated."
+msgstr "Post/ Excerpt Formatierung aktualisiert."
+
+#: text-control.php:253
+msgid "Comment formatting updated."
+msgstr "Kommentarformatierung aktualisiert."
+
+#: text-control.php:261
+msgid "Text Control Settings"
+msgstr "Text Control Einstellungen"
+
+#: text-control.php:263
+msgid "Set up the default settings for your blog text formatting."
+msgstr "Setze die Standardeinstellungen f&uuml;r die Textformatierung auf deinem Weblog."
+
+#: text-control.php:269
+msgid "Posts &amp; Excerpts"
+msgstr "Posts &amp; Excerpts"
+
+#: text-control.php:271
+msgid "These will set up what the blog parses posts with by default unless over ridden on a per-post basis."
+msgstr "Alle Posts/ Excerpt werden verarbeitet mit:"
+
+#: text-control.php:283
+#: text-control.php:312
+#: text-control.php:445
+#: text-control.php:502
+msgid "No Formatting"
+msgstr "Keine Formatierung"
+
+#: text-control.php:289
+msgid "No Character Encoding"
+msgstr "Keine Character-Formatierung"
+
+#: text-control.php:292
+msgid "Change Default Post/Excerpt Formatting"
+msgstr "&Auml;ndere Standard Post/Excerpt Formatierung"
+
+#: text-control.php:299
+msgid "Comments"
+msgstr "Kommentare"
+
+#: text-control.php:300
+msgid "All comments will be processed with these:"
+msgstr "Alle Kommentare werden verarbeitet mit:"
+
+#: text-control.php:318
+#: text-control.php:451
+#: text-control.php:508
+msgid "No Character Formatting"
+msgstr "Keine Character-Formatierung"
+
+#: text-control.php:321
+msgid "Change Default Comment Formatting"
+msgstr "&Auml;ndere Standard Kommentar Formatierung"
+
+#: text-control.php:331
+msgid "Information on the plugin"
+msgstr "Informationen zum Plugin"
+
+#: text-control.php:333
+msgid "For further information or to grab the latest version of this plugin, visit the <a href='http://dev.wp-plugins.org/wiki/TextControl' title='to the plugin-website' >plugin's homepage</a>."
+msgstr "Für weitere Informationen oder zum downloaden der aktuellen Version des Plugins, besuche die <a href='http://dev.wp-plugins.org/wiki/TextControl' title='zur Plugin Website' >Plugin Website</a>."
+
+#: text-control.php:333
+msgid "to the Website"
+msgstr "zur Website"
+
+#: text-control.php:333
+msgid "and"
+msgstr "und"
+
+#: text-control.php:333
+msgid "Want to say thank you? Visit my <a href='http://bueltge.de/wunschliste/' title='to the wishlist' >wishlist</a>."
+msgstr "Du willst Danke sagen? Besuche meine <a href='http://bueltge.de/wunschliste/' title='to the wishlist' >Wunschliste</a>."
+
+#: text-control.php:438
+#: text-control.php:495
+msgid "Format this post with:"
+msgstr "Formatiere diesen Beitrag mit:"
+
+#~ msgid "Text Control Config"
+#~ msgstr "Text Control Einstellungen"
+
