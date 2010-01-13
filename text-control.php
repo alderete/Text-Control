@@ -358,16 +358,14 @@ function tc_post_option_page() {
 function tc_add_custom_box() {
 
 	if ( function_exists('add_meta_box') ) { // for WordPress >=2.5
-		add_meta_box(
-			'textcontroldiv',
-			__('Text Control', 'textcontrol'),
-			'tc_inside_the_textcontrol_box',
-			'post',
-			'advanced'
-		);
+		add_meta_box('textcontroldiv', __('Text Control', 'textcontrol'),
+					 'tc_inside_the_textcontrol_box', 'post', 'advanced');
+		add_meta_box('textcontroldiv', __('Text Control', 'textcontrol'),
+					 'tc_inside_the_textcontrol_box', 'page', 'advanced');
 
 	} else {
 		add_filter('dbx_post_advanced', 'tc_post_admin_footer');
+		add_action('dbx_page_advanced', 'tc_post_admin_footer' );
 	}
 }
 
